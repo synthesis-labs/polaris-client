@@ -19,7 +19,7 @@ limitations under the License.
 package scheme
 
 import (
-	polarisv1alpha1 "github.com/synthesis-labs/polaris-operator/pkg/apis/polaris/v1alpha1"
+	polarisv1alpha1 "github.com/synthesis-labs/polaris-operator/pkg/apis"
 	v1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	runtime "k8s.io/apimachinery/pkg/runtime"
 	schema "k8s.io/apimachinery/pkg/runtime/schema"
